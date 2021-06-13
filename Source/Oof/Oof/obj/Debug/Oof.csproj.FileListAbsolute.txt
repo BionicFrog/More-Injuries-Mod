@@ -1,0 +1,7 @@
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Source\Oof\Oof\bin\Debug\Oof.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Source\Oof\Oof\bin\Debug\Oof.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Source\Oof\Oof\obj\Debug\Oof.csprojAssemblyReference.cache
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Source\Oof\Oof\obj\Debug\Oof.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Source\Oof\Oof\obj\Debug\Oof.pdb
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Assemblies\Oof.dll
+F:\Steam\steamapps\common\RimWorld\Mods\Ooof\Assemblies\Oof.pdb
